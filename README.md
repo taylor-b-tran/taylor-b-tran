@@ -8,7 +8,7 @@ My focus is on **Data Analytics, Business Intelligence, and applied AI** — bui
 
 ## 🔨 What I'm Building Now
 
-**[EduRAG / Paedia](https://github.com/taylor-b-tran/edu-rag)** — AI-powered course assistant using Retrieval-Augmented Generation
+**EduRAG / Paedia** *(private repo — public demo coming Q2 2026)* — AI-powered course assistant using Retrieval-Augmented Generation
 
 - Leading a team of 6 as **Project Lead & AI Architect**
 - End-to-end RAG pipeline: document ingestion → chunking → embedding → vector retrieval → LLM-grounded answer generation with source citation
@@ -31,7 +31,7 @@ My focus is on **Data Analytics, Business Intelligence, and applied AI** — bui
 
 ## 📌 Featured Projects
 
-- **[EduRAG](https://github.com/taylor-b-tran/edu-rag)** — AI course assistant (RAG · LangChain · ChromaDB · Ollama · Streamlit)
+- **EduRAG** *(private repo — public demo coming Q2 2026)* — AI course assistant (RAG · LangChain · ChromaDB · Ollama · Streamlit)
 - **Australian IT Graduate Job Market Analysis** *(coming June 2026)* — SQL · Python · Power BI
 - **Applied ML Project** *(coming July 2026)* — scikit-learn · pandas · model evaluation
 
