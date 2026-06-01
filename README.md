@@ -31,8 +31,8 @@ My focus is on **Data Analytics, Business Intelligence, and applied AI** — bui
 
 ## 📌 Featured Projects
 
-- **EduRAG** *(private repo — public demo coming Q2 2026)* — AI course assistant (RAG · LangChain · ChromaDB · Ollama · Streamlit)
-- **Australian IT Graduate Job Market Analysis** *(coming June 2026)* — SQL · Python · Power BI
+- **[Australian IT Job Market Analysis](https://github.com/taylor-b-tran/au-it-job-market)** — Python, SQL, and Power BI interactive dashboard analyzing salaries, growth, and work settings for IT and data roles in Australia.
+- **EduRAG** *(private repo — public demo coming Q2 2026)* — AI course assistant using hybrid search, semantic chunking, and Streamlit (RAG · LangChain · ChromaDB · Ollama).
 - **Applied ML Project** *(coming July 2026)* — scikit-learn · pandas · model evaluation
 
 ---
